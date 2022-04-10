@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a28aa877-ce09-4870-8582-0499bcb9b2b0" name="Default Changelist" comment="" />
+    <list default="true" id="a28aa877-ce09-4870-8582-0499bcb9b2b0" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,9 +137,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.run_straight" />
       <item itemvalue="Python.food_chain" />
       <item itemvalue="Python.run_straight (1)" />
+      <item itemvalue="Python.run_straight" />
     </list>
     <recent_temporary>
       <list>
@@ -155,7 +157,30 @@
       <option name="presentableId" value="Default" />
       <updated>1647795727911</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1649586160131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649586160132</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
