@@ -1,0 +1,1 @@
+HDBSCAN_no_filters: {'n_neighbors': 0.1, 'min_dist': 15, 'RI': 0.46703757717004185, 'ARI': 0.01840289428685466, 'SIL': -0.17317007, 'N_clust': 18}HDBSCAN_no_noise: {'n_neighbors': 0.1, 'min_dist': 15, 'RI': 0.40436087520474145, 'ARI': 0.03105942725386844, 'SIL': 0.6012781, 'N_clust': 17}
