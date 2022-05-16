@@ -1,1 +1,0 @@
-results_by_neighbors managed only 5_neighbors before stopping
